@@ -1,5 +1,5 @@
 ---
-title: Home Page
+title: Unveiling the Network of Artists Across Coachella’s Stages Over 25 years
 layout: single
 next: data-description
 ---

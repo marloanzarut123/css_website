@@ -1,13 +1,13 @@
-baseURL = "https://peterampazzo.github.io/project-website-template/"
+baseURL = "https://marloanzarut123.github.io/css_website/"
 title = "Project Title"
 description = "This is a project description"
 relativeURLs = true
 theme = "theme" 
 [params]
-    authors = ["Henrik Nielsen", "Inga Jensen", "Mikkel Andersen"]
+    authors = ["Elinor Funk", "Leland Whitlock", "Marlo Anzarut"]
     notebook = "/explainer-notebook.html"
     data = "https://drive.google.com"
-    github = "https://github.com/peterampazzo/project-website-template"
+    github = "https://marloanzarut123.github.io/css_website/"
     [[params.nav]]
         label = "Data"
         link = "/data-description"

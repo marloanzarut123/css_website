@@ -4,15 +4,11 @@ layout: single
 next: data-description
 ---
 
+![](/images/intro_image.png)
+
 Welcome to Coachella's artist analysis! Dive into the making of each year's artist selection with our in-depth lineup analysis, uncovering different rythms, genres and hidden gems that define Coachella. 
 
-Whether you attend Coachella anually, or music enthusiast, join us on a journey through the evolution of Coachella's lineups, where every performance leaves a lasting impression. Explore, discover and immerse yourself in the magic of Coachella like never before. 
-
-
-## Math formula
-
-
-$$ x^n + y^n = z^n $$
+Whether you attend Coachella anually, or are a music enthusiast, join us on a journey through the evolution of Coachella's lineups, where every performance leaves a lasting impression. Explore, discover and immerse yourself in the magic of Coachella like never before. 
 
 ## Code chunk
 

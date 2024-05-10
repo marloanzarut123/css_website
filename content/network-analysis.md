@@ -1,5 +1,5 @@
 ---
-title: Network analysis
+title: Unveiling the Network of Artists Across Coachella’s Stages Over 25 years
 prev: data-description
 next: text-analysis
 ---

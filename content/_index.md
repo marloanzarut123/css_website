@@ -1,5 +1,5 @@
 ---
-title: Unveiling the Network of Artists Across Coachella’s Stages Over 25 years
+title: The Evolution of Coachella Artists
 layout: single
 next: data-description
 ---
@@ -34,4 +34,4 @@ Phasellus viverra tellus viverra purus placerat, et lacinia mauris tristique. Na
 
 ## [Explainer Notebook](explainer-notebook.html)
 
-Aenean non augue vulputate, bibendum ligula ac, euismod arcu. Proin consequat, urna at lobortis sodales, ligula nulla molestie dolor, et interdum nulla arcu eu lacus. Aenean maximus mi vel augue blandit, quis vehicula libero egestas. In mollis nibh in turpis sodales, eget luctus sem pretium. Integer lobortis diam vel nisi laoreet, ut condimentum risus ultrices. Praesent diam risus, imperdiet at lorem in, hendrerit auctor ex.
+The explainer notebook is designed for Coachella lovers, artists, data entusiasts and anyone else interested in gaining insights on one of the most renwoned music festivals in the world!
